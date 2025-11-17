@@ -1,4 +1,4 @@
-package com.lilbpg.pgquery;
+package com.libpg.pgquery;
 
 import java.io.*;
 

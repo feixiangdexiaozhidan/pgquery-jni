@@ -1,4 +1,4 @@
-package com.lilbpg;
+package com.libpg;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

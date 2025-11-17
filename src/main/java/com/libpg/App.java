@@ -1,4 +1,4 @@
-package com.lilbpg;
+package com.libpg;
 
 /**
  * Hello world!
